@@ -35,10 +35,10 @@ The analysis also examined whether risk varied across:
 ## Tools & Technologies
 
 - **Microsoft Excel**
-- **Power Query** — data cleaning and transformation
-- **Power Pivot** — data modeling and analysis
-- **DAX** — calculated measures and risk metrics
-- **PivotTables / PivotCharts** — analysis and dashboard visualization
+- **Power Query** - data cleaning and transformation
+- **Power Pivot** - data modeling and analysis
+- **DAX** - calculated measures and risk metrics
+- **PivotTables / PivotCharts** - analysis and dashboard visualization
 
 ## Data Scope
 
