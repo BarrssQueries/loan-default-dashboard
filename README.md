@@ -118,7 +118,8 @@ Although officer-level default rates appeared different when sorted, statistical
 
 ## Dashboard Preview
 
-<img width="503" height="293" alt="loan-default-dashboard" src="https://github.com/user-attachments/assets/99799967-8736-40c0-92a5-ee75d3063772" />
+<img width="471" height="292" alt="Loan" src="https://github.com/user-attachments/assets/cc361701-1054-4437-beea-9e1e19c9c2d2" />
+
 
 
 ## Data Note
