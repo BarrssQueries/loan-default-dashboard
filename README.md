@@ -118,16 +118,8 @@ Although officer-level default rates appeared different when sorted, statistical
 
 ## Dashboard Preview
 
-![Loan Default Dashboard](screenshots/loan-default-dashboard.png)
+<img width="503" height="293" alt="loan-default-dashboard" src="https://github.com/user-attachments/assets/99799967-8736-40c0-92a5-ee75d3063772" />
 
-## Repository Contents
-
-| File | Description |
-|---|---|
-| `dashboard/Loan Default Dashboard.xlsx` | Final Excel dashboard and analytical workbook |
-| `screenshots/loan-default-dashboard.png` | Final dashboard preview |
-| `documentation/Project Brief.pdf` | Project business case and analytical requirements |
-| `documentation/Analysis and Recommendations.pdf` | Final analytical summary and recommendations |
 
 ## Data Note
 
